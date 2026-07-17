@@ -1,0 +1,49 @@
+{
+  "catalogue_name": "NightStream Premium Catalogue",
+  "version": "1.0.0",
+  "description": "Catalogue haute performance pour NightStream Pro. Ajoutez uniquement des flux et vidéos que vous êtes autorisé à utiliser.",
+  "items": [
+    {
+      "title": "TEST 1080p — Big Buck Bunny",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "category": "Nouveautés, Populaires, Films, Français",
+      "quality": "1080p",
+      "thumb": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "fanart": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
+      "plot": "Flux HLS public de test pour vérifier le fonctionnement du catalogue.",
+      "date": "2026-07-17",
+      "duration": "",
+      "studio": "Mux Test Streams",
+      "views": 1000,
+      "source": "Test légal"
+    },
+    {
+      "title": "TEST 4K — Tears of Steel",
+      "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "category": "Nouveautés, Films, 4K / UHD, International",
+      "quality": "2160p",
+      "thumb": "",
+      "fanart": "",
+      "plot": "Flux de démonstration public pour tester la lecture haute qualité.",
+      "date": "2026-07-17",
+      "duration": "",
+      "studio": "Unified Streaming Demo",
+      "views": 900,
+      "source": "Test légal"
+    }
+  ],
+  "template_item": {
+    "title": "Titre de la vidéo",
+    "url": "https://votre-source-autorisee/video.m3u8",
+    "category": "Nouveautés, Populaires, Films, Clips, Live, Studios, VR, 4K / UHD, Français, International",
+    "quality": "1080p",
+    "thumb": "https://votre-site/image.jpg",
+    "fanart": "https://votre-site/fond.jpg",
+    "plot": "Description",
+    "date": "2026-07-17",
+    "duration": "00:00:00",
+    "studio": "Nom du studio",
+    "views": 0,
+    "source": "Source autorisée"
+  }
+}
