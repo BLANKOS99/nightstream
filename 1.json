@@ -1,0 +1,74 @@
+{
+  "catalog": "Meilleur Catalogue Adult JSON",
+  "version": "1.0",
+  "last_updated": "2026-07-17",
+  "description": "Exemple de catalogue JSON pour contenu adulte - prêt pour GitHub",
+  "total_items": 5,
+  "items": [
+    {
+      "id": "001",
+      "title": "Hot Summer Nights",
+      "type": "video",
+      "duration": "42:15",
+      "actors": ["Mia Khalifa", "Johnny Sins"],
+      "categories": ["hardcore", "milf", "bigass"],
+      "thumbnail": "https://example.com/thumb1.jpg",
+      "preview_url": "https://example.com/preview1.mp4",
+      "download_url": "https://example.com/video1.mp4",
+      "rating": 4.8,
+      "views": 1250000
+    },
+    {
+      "id": "002",
+      "title": "Lesbian Passion",
+      "type": "video",
+      "duration": "28:45",
+      "actors": ["Angela White", "Abella Danger"],
+      "categories": ["lesbian", "bigboobs"],
+      "thumbnail": "https://example.com/thumb2.jpg",
+      "preview_url": "https://example.com/preview2.mp4",
+      "download_url": "https://example.com/video2.mp4",
+      "rating": 4.9,
+      "views": 980000
+    },
+    {
+      "id": "003",
+      "title": "POV Fantasy",
+      "type": "video",
+      "duration": "35:20",
+      "actors": ["Riley Reid"],
+      "categories": ["pov", "teen"],
+      "thumbnail": "https://example.com/thumb3.jpg",
+      "preview_url": "https://example.com/preview3.mp4",
+      "download_url": "https://example.com/video3.mp4",
+      "rating": 4.7,
+      "views": 750000
+    },
+    {
+      "id": "004",
+      "title": "Gangbang Extreme",
+      "type": "video",
+      "duration": "55:10",
+      "actors": ["Lisa Ann", "Multiple"],
+      "categories": ["gangbang", "busty"],
+      "thumbnail": "https://example.com/thumb4.jpg",
+      "preview_url": "https://example.com/preview4.mp4",
+      "download_url": "https://example.com/video4.mp4",
+      "rating": 4.5,
+      "views": 2100000
+    },
+    {
+      "id": "005",
+      "title": "Solo Pleasure",
+      "type": "video",
+      "duration": "18:50",
+      "actors": ["Dillion Harper"],
+      "categories": ["solo", "toys"],
+      "thumbnail": "https://example.com/thumb5.jpg",
+      "preview_url": "https://example.com/preview5.mp4",
+      "download_url": "https://example.com/video5.mp4",
+      "rating": 4.6,
+      "views": 450000
+    }
+  ]
+}
